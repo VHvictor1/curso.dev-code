@@ -1,0 +1,24 @@
+{
+  "name": "curso.dev-code",
+  "version": "1.0.0",
+  "description": "Um repositório para guardar o código do curso.dev.",
+  "homepage": "https://github.com/VHvictor1/curso.dev-code#readme",
+  "bugs": {
+    "url": "https://github.com/VHvictor1/curso.dev-code/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VHvictor1/curso.dev-code.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.1.1",
+    "react-dom": "^19.2.3"
+  }
+}
